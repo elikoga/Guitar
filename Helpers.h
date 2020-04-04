@@ -1,0 +1,1 @@
+double fRand(double min, double max);
